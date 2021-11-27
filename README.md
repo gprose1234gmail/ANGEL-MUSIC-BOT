@@ -1,11 +1,11 @@
-# MUSIC-BOT
+# ANGEL MUSIC BOT
 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝘼𝙉𝙂𝙀𝙇 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ... 
 ★𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔  https://t.me/social_mechanic_1997
 <h2 align="centre">𝘼𝙉𝙂𝙀𝙇 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏</h2>
 
-### 𝐒𝐮𝐧𝐢𝐤𝐤𝐢 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### ANGEL 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/de0d4f49c71c87eba9dee.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/tamil_chat_group_1"><img src="https://telegra.ph/file/6caec29bf58337953a4b4.png" width="300"></a></p>
 
 
 
