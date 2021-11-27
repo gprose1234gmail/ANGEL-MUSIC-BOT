@@ -16,7 +16,7 @@
       "value": ""
     },
     "BOT_USERNAME": {
-      "description": "Put Bot Username Without '@' Ex:- Sunikki_MusicBot",
+      "description": "Put Bot Username Without '@' Ex:- Social_mechanic_music_Bot",
       "required": true,
       "value": ""
     },
