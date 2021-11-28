@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Sumityadav
+# Copyright (C) 2021 By SOCIAL-MECHANIC-TEAM-NRD
 
 import asyncio
 from pyrogram import Client, filters
