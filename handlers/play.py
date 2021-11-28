@@ -78,7 +78,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
                 await f.close()
 
     image1 = Image.open("./background.png")
-    image2 = Image.open("etc/IMG_20211128_001531_730.png")
+    image2 = Image.open("/etc/IMG_20211128_001531_730.png")
     image3 = changeImageSize(1280, 720, image1)
     image4 = changeImageSize(1280, 720, image2)
     image5 = image3.convert("RGBA")
@@ -92,7 +92,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: SOCIAL MECHANIC",
+        f"Powered By: @SOCIAL MECHANIC",
         (255, 255, 255),
         font=font,
     )
@@ -174,7 +174,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "photo="https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg"
+        thumb_name = "photo="https://telegra.ph/file/6caec29bf58337953a4b4.png"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
