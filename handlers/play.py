@@ -92,7 +92,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: 𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯",
+        f"Powered By: 𝚂𝙾𝙲𝙸𝙰𝙻 𝙼𝙴𝙲𝙷𝙰𝙽𝙸𝙲",
         (255, 255, 255),
         font=font,
     )
@@ -174,7 +174,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg"
+        thumb_name = "https://telegra.ph/file/326fdecd025a145566963.png"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -184,7 +184,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/tamil_chat_group_1")
 
                 ]
             ]
@@ -223,7 +223,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/tamil_chat_group_1")
 
                 ]
             ]
@@ -231,7 +231,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg"
+            thumb_name = "https://telegra.ph/file/326fdecd025a145566963.png"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -239,7 +239,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/tamil_chat_group_1")
 
                 ]
             ]
@@ -294,7 +294,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/tamil_chat_group_1")
 
                 ]
             ]
@@ -345,7 +345,7 @@ async def play(_, message: Message):
 async def pause(_, message: Message):
     await callsmusic.pytgcalls.pause_stream(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg", 
+                             photo="https://telegra.ph/file/326fdecd025a145566963.png", 
                              caption="**⚡ꜱᴜɴɪᴋᴋɪ⚡ ᴍᴜꜱɪᴄ\n ɴᴏᴡ ▶️ ᴘᴀᴜꜱᴇᴅ ...**"
     )
 
@@ -356,7 +356,7 @@ async def pause(_, message: Message):
 async def resume(_, message: Message):
     await callsmusic.pytgcalls.resume_stream(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg", 
+                             photo="https://telegra.ph/file/326fdecd025a145566963.png", 
                              caption="**⚡ꜱᴜɴɪᴋᴋɪ⚡ ᴍᴜꜱɪᴄ\n ɴᴏᴡ ⏸ ᴘʟᴀʏɪɴɢ ...**"
     )
 
@@ -390,7 +390,7 @@ async def skip(_, message: Message):
                 )
 
     await message.reply_photo(
-                             photo="https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg", 
+                             photo="https://telegra.ph/file/326fdecd025a145566963.png", 
                              caption=f'**⚡ꜱᴜɴɪᴋᴋɪ⚡ ᴍᴜꜱɪᴄ \n ɴᴏᴡ ⏩ꜱᴋɪᴘᴘᴇᴅ...**'
    ) 
 
@@ -406,7 +406,7 @@ async def stop(_, message: Message):
 
     await callsmusic.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg", 
+                             photo="https://telegra.ph/file/326fdecd025a145566963.png", 
                              caption="**⚡ꜱᴜɴɪᴋᴋɪ⚡ ᴍᴜꜱɪᴄ\n ɴᴏᴡ ❌ ꜱᴛᴏᴘᴘᴇᴅ ...**"
     )
 
@@ -424,6 +424,6 @@ async def admincache(client, message: Message):
     )
 
     await message.reply_photo(
-                              photo="https://telegra.ph/file/f0ed20d7b1021f9e9e422.jpg",
+                              photo="https://telegra.ph/file/326fdecd025a145566963.png",
                               caption="**⚡ꜱᴜɴɪᴋᴋɪ⚡ ᴍᴜꜱɪᴄ\n ɴᴏᴡ ʀᴇᴀʟᴏᴀᴅᴇᴅ ...**"
     )
