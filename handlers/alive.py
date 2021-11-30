@@ -34,14 +34,14 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/527290a1cd1c21fcbecc6.jpg",
+        photo=f"https://telegra.ph/file/6caec29bf58337953a4b4.png",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧
+ 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝘼𝙉𝙂𝙀𝙇 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡ : [𝗧𝗵𝗲 𝗦𝘂𝗽𝗲𝗿𝗶𝗼𝘂𝗿 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://t.me/The_Superiour_Network)
-┣★ ⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡ : [𝗪𝗼𝗿𝗹𝗱 𝗙𝗿𝗶𝗲𝗻𝗱𝗦𝗵𝗶𝗽 𝗭𝗼𝗻𝗲](https://t.me/World_FriendShip_Zone)
-┣★ ⚡𝗢𝘄𝗻𝗲𝗿⚡   : [𝗦𝘂𝗺𝗶𝘁 𝗬𝗮𝗱𝗮𝘃](https://t.me/Simple_Legend)
+┣★𝗖𝗵𝗮𝗻𝗻𝗲𝗹: [𝙏𝙀𝘾𝙃𝙉𝙊𝙇𝙊𝙂𝙔 𝘾𝙊𝙍𝙉𝙀𝙍](https://t.me/technology_corner_1)
+┣★𝗦𝘂𝗽𝗽𝗼𝗿𝘁: [𝙉𝘼𝘼𝙉𝙐𝙈 𝙍𝙊𝙒𝘿𝙔 𝘿𝙃𝘼𝘼𝙉](https://t.me/tamil_chat_group_1)
+┣★𝗢𝘄𝗻𝗲𝗿 : [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://t.me/social_mechanic_1997)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
@@ -65,14 +65,14 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/World_FriendShip_Zone")
+                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/tamil_chat_group_1")
                 ]
             ]
         ),
     )
 
 
-@Client.on_message(commandpro(["Sunikki", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["Angel", "Group", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/527290a1cd1c21fcbecc6.jpg",
@@ -81,7 +81,11 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡", url=f"https://t.me/The_Superiour_Network")
+                        "⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡", url=f"https://t.me/technology_corner_1")
+                ]
+               [
+                    InlineKeyboardButton(
+                        "⚡𝙂𝙍𝙊𝙐𝙋⚡", url=f"https://t.me/tamil_chat_group_1")
                 ]
             ]
         ),
