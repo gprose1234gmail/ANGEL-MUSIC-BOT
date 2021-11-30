@@ -1,4 +1,4 @@
-# devilhacker
+# SOCIAL MECHANIC
 
 import os
 import aiohttp
