@@ -75,7 +75,7 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["Angel", "Group", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/527290a1cd1c21fcbecc6.jpg",
+        photo=f"https://telegra.ph/file/326fdecd025a145566963.png",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
