@@ -59,7 +59,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "Sumit"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/527290a1cd1c21fcbecc6.jpg",
+        photo=f"https://telegra.ph/file/326fdecd025a145566963.png",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -83,10 +83,7 @@ async def help(client: Client, message: Message):
                     InlineKeyboardButton(
                         "⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡", url=f"https://t.me/technology_corner_1")
                 ]
-               [
-                    InlineKeyboardButton(
-                        "⚡𝙂𝙍𝙊𝙐𝙋⚡", url=f"https://t.me/tamil_chat_group_1")
-                ]
+                
             ]
         ),
     )
