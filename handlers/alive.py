@@ -36,12 +36,12 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/326fdecd025a145566963.png",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
- 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝘼𝙉𝙂𝙀𝙇 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧
-𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
+ 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 MAHSOOM MUSIC BOT
+
 ┏━━━━━━━━━━━━━━━━━┓
-┣★𝗖𝗵𝗮𝗻𝗻𝗲𝗹: [𝙏𝙀𝘾𝙃𝙉𝙊𝙇𝙊𝙂𝙔 𝘾𝙊𝙍𝙉𝙀𝙍](https://t.me/technology_corner_1)
-┣★𝗦𝘂𝗽𝗽𝗼𝗿𝘁: [𝙉𝘼𝘼𝙉𝙐𝙈 𝙍𝙊𝙒𝘿𝙔 𝘿𝙃𝘼𝘼𝙉](https://t.me/tamil_chat_group_1)
-┣★𝗢𝘄𝗻𝗲𝗿 : [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://t.me/social_mechanic_1997)
+┣★𝗖𝗵𝗮𝗻𝗻𝗲𝗹: [MAHSOOM BOT UPDATE](https://t.me/mahsoombotupdate)
+┣★𝗦𝘂𝗽𝗽𝗼𝗿𝘁: [TAMIL CHAT FRIENDS](https://t.me/Tamil_Friendship_Group)
+┣★𝗢𝘄𝗻𝗲𝗿 : [MAHSOOM](https://t.me/call_me_futurepilot)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
@@ -65,7 +65,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/tamil_chat_group_1")
+                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/Tamil_Friendship_Group")
                 ]
             ]
         ),
@@ -81,7 +81,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡", url=f"https://t.me/technology_corner_1")
+                        "⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡", url=f"https://t.me/mahsoombotupdate")
                 ]
                 
             ]
