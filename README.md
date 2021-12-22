@@ -35,7 +35,7 @@ to get pyrogram string session
 
 ### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TEAM-NRD/ANGEL-MUSIC-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gprose1234gmail/ANGEL-MUSIC-BOT.git)
 
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
 # [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
